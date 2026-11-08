@@ -1,0 +1,13 @@
+# Tested with CUDA 12.x-13.0 and Python 3.10-3.12
+torch>=2.5.0
+torchaudio>=2.5.0
+torchvision>=0.20.0
+numpy>=1.26.0
+librosa>=0.10.1
+soundfile>=0.12.1
+matplotlib>=3.8.0
+scipy>=1.13.0
+tqdm>=4.66.0
+transformers>=4.40.0
+Pillow>=10.3.0
+opencv-python>=4.10.0
